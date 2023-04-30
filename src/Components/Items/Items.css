@@ -1,0 +1,23 @@
+.card{
+    text-align: center;
+    width: 200px;
+     background-color:rgb(13, 12, 31);
+    margin-left: 120px;
+}
+
+
+.item_name{
+    font-style: oblique;
+    color:white;
+    margin-top: 10px;
+}
+.price{
+    color: blue;
+}
+.Item_tab{
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(5, 0, 89));
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    gap: 20px;
+}
+
